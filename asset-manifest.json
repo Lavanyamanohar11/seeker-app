@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/seeker-app/static/css/main.369f7710.chunk.css",
+    "main.js": "/seeker-app/static/js/main.42e53612.chunk.js",
+    "main.js.map": "/seeker-app/static/js/main.42e53612.chunk.js.map",
+    "runtime-main.js": "/seeker-app/static/js/runtime-main.517fe503.js",
+    "runtime-main.js.map": "/seeker-app/static/js/runtime-main.517fe503.js.map",
+    "static/js/2.12fdcce8.chunk.js": "/seeker-app/static/js/2.12fdcce8.chunk.js",
+    "static/js/2.12fdcce8.chunk.js.map": "/seeker-app/static/js/2.12fdcce8.chunk.js.map",
+    "index.html": "/seeker-app/index.html",
+    "static/css/main.369f7710.chunk.css.map": "/seeker-app/static/css/main.369f7710.chunk.css.map",
+    "static/js/2.12fdcce8.chunk.js.LICENSE.txt": "/seeker-app/static/js/2.12fdcce8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517fe503.js",
+    "static/js/2.12fdcce8.chunk.js",
+    "static/css/main.369f7710.chunk.css",
+    "static/js/main.42e53612.chunk.js"
+  ]
+}
